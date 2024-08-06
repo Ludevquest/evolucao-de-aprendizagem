@@ -34,8 +34,3 @@ Eu já tenho conhecimento sobre os seguintes tópicos que serão abordados neste
 
 O que mais me serviu de aprendizado sobre os assuntos abordados no módulo foram acerca das metodologias ágeis, especificamente SCRUM e Kanban, pois garante uma maior organização e assertividade de todo projeto na qual você se compromete.
 Além também de compreender as estruturas de um objeto e como ele se relaciona com as funções e métodos de arrays.
-
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
-
-O que mais me serviu de aprendizado sobre os assuntos abordados no módulo foram acerca de versionamento de código por meio do GIT pois garante uma maior organização, registro e segurança de todo projeto na qual você se compromete.
-Além também de compreender que as Softs Skills e a Ética é um dos pontos chaves e de primordial importância para a minha evolução como desenvolvedor, pois são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe, gerando assim uma responsabilidade tanto pessoal quanto coletiva.
